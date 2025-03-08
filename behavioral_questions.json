@@ -1,0 +1,18 @@
+[
+  {
+    "question": "Tell me about a time you faced a challenging situation in a project.",
+    "category": "problem_solving"
+  },
+  {
+    "question": "How do you handle disagreements with team members?",
+    "category": "teamwork"
+  },
+  {
+    "question": "Describe a situation where you had to meet a tight deadline.",
+    "category": "time_management"
+  },
+  {
+    "question": "What's your approach to learning new technologies?",
+    "category": "learning"
+  }
+]
