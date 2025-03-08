@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Explain the difference between a list and a tuple in Python.",
+    "category": "python",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is a decorator in Python and how does it work?",
+    "category": "python",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Explain what Big O notation is and give examples.",
+    "category": "algorithms",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How would you implement a binary search tree?",
+    "category": "data_structures",
+    "difficulty": "hard"
+  }
+]
